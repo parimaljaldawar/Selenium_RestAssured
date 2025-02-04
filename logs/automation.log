@@ -1,0 +1,101 @@
+20:56:22.484 [main] INFO  api.test.UserTests2 - ************* Creating User *************
+20:56:28.978 [main] INFO  api.test.UserTests2 - ************* User has been created *************
+20:56:29.026 [main] INFO  api.test.UserTests2 - ************* Reading User Info *************
+20:56:30.610 [main] INFO  api.test.UserTests2 - ************* User Info is displayed *************
+20:56:30.615 [main] INFO  api.test.UserTests2 - ************* Updating User *************
+20:56:33.574 [main] INFO  api.test.UserTests2 - ************* User is updated *************
+20:56:33.579 [main] INFO  api.test.UserTests2 - ************* Deleting User *************
+20:56:35.111 [main] INFO  api.test.UserTests2 - ************* User is Deleted *************
+21:11:05.891 [main] INFO  api.test.UserTests2 - ************* Creating User *************
+21:11:12.752 [main] INFO  api.test.UserTests2 - ************* User has been created *************
+21:11:12.835 [main] INFO  api.test.UserTests2 - ************* Reading User Info *************
+21:11:13.095 [main] INFO  api.test.UserTests2 - ************* Updating User *************
+21:11:13.249 [main] INFO  api.test.UserTests2 - ************* Deleting User *************
+21:30:05.622 [main] INFO  api.test.UserTests2 - ************* Creating User *************
+21:30:12.014 [main] INFO  api.test.UserTests2 - ************* User has been created *************
+21:30:12.056 [main] INFO  api.test.UserTests2 - ************* Reading User Info *************
+21:30:17.202 [main] INFO  api.test.UserTests2 - ************* User Info is displayed *************
+21:30:17.211 [main] INFO  api.test.UserTests2 - ************* Updating User *************
+21:30:22.008 [main] INFO  api.test.UserTests2 - ************* User is updated *************
+21:30:22.016 [main] INFO  api.test.UserTests2 - ************* Deleting User *************
+21:30:24.159 [main] INFO  api.test.UserTests2 - ************* User is Deleted *************
+21:34:11.834 [main] INFO  api.test.UserTests - ************* Creating User *************
+21:34:17.671 [main] INFO  api.test.UserTests - ************* User has been created *************
+21:34:17.711 [main] INFO  api.test.UserTests - ************* Reading User Info *************
+21:34:19.201 [main] INFO  api.test.UserTests - ************* User Info is displayed *************
+21:34:19.209 [main] INFO  api.test.UserTests - ************* Updating User *************
+21:34:21.907 [main] INFO  api.test.UserTests - ************* User is updated *************
+21:34:21.914 [main] INFO  api.test.UserTests - ************* Deleting User *************
+21:34:23.263 [main] INFO  api.test.UserTests - ************* User is Deleted *************
+21:35:11.041 [main] INFO  api.test.UserTests2 - ************* Creating User *************
+21:35:18.677 [main] INFO  api.test.UserTests2 - ************* User has been created *************
+21:35:18.738 [main] INFO  api.test.UserTests2 - ************* Reading User Info *************
+21:35:20.406 [main] INFO  api.test.UserTests2 - ************* User Info is displayed *************
+21:35:20.411 [main] INFO  api.test.UserTests2 - ************* Updating User *************
+21:35:23.269 [main] INFO  api.test.UserTests2 - ************* User is updated *************
+21:35:23.273 [main] INFO  api.test.UserTests2 - ************* Deleting User *************
+21:35:24.805 [main] INFO  api.test.UserTests2 - ************* User is Deleted *************
+22:09:10.708 [main] INFO  api.test.UserTests2 - ************* Creating User *************
+22:09:16.704 [main] INFO  api.test.UserTests2 - ************* User has been created *************
+22:09:16.740 [main] INFO  api.test.UserTests2 - ************* Reading User Info *************
+22:09:18.317 [main] INFO  api.test.UserTests2 - ************* User Info is displayed *************
+22:09:18.325 [main] INFO  api.test.UserTests2 - ************* Updating User *************
+22:09:21.495 [main] INFO  api.test.UserTests2 - ************* User is updated *************
+22:09:21.503 [main] INFO  api.test.UserTests2 - ************* Deleting User *************
+22:09:23.071 [main] INFO  api.test.UserTests2 - ************* User is Deleted *************
+22:50:29.475 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: testuser1
+22:50:34.683 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: testuser2
+22:50:36.266 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: testuser3
+22:50:37.799 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: 
+22:50:39.430 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: testuser1
+22:50:40.985 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: testuser2
+22:50:42.406 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: testuser3
+22:50:43.941 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: 
+23:00:32.142 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: "testuser1" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+23:00:37.443 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: "testuser2" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+23:00:38.998 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: "testuser3" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+23:00:40.532 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: 
+23:00:42.208 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: "testuser1" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+23:00:43.710 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: "testuser2" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+23:00:45.251 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: "testuser3" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+23:00:46.677 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: 
+11:37:51.983 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: "testuser1" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:37:56.206 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: "testuser2" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:37:57.398 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: "testuser3" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:37:58.596 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: 
+11:37:59.887 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: "testuser1" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:38:00.997 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: "testuser2" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:38:02.155 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: "testuser3" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:38:03.293 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: 
+11:46:08.578 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: "testuser1" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:46:11.728 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: "testuser2" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:46:12.858 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: "testuser3" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:46:14.009 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: 
+11:46:15.170 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: "testuser1" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:46:16.313 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: "testuser2" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:46:17.407 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: "testuser3" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:46:18.557 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: 
+11:50:33.096 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: "testuser1" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:50:35.903 [main] ERROR api.test.DDTests - User retrieval failed! Status code: 404. Response body: {"code":1,"type":"error","message":"User not found"}
+11:50:35.913 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: "testuser2" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:50:37.080 [main] ERROR api.test.DDTests - User retrieval failed! Status code: 404. Response body: {"code":1,"type":"error","message":"User not found"}
+11:50:37.083 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: "testuser3" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:50:38.226 [main] ERROR api.test.DDTests - User retrieval failed! Status code: 404. Response body: {"code":1,"type":"error","message":"User not found"}
+11:50:38.230 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: 
+11:50:39.365 [main] ERROR api.test.DDTests - User retrieval failed! Status code: 405. Response body: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><apiResponse><type>unknown</type></apiResponse>
+11:50:39.423 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: "testuser1" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:50:40.563 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: "testuser2" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:50:41.707 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: "testuser3" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:50:42.786 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: 
+11:56:57.518 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: "testuser1" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:57:00.535 [main] ERROR api.test.DDTests - User retrieval failed! Status code: 404. Response body: {"code":1,"type":"error","message":"User not found"}
+11:57:00.550 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: "testuser2" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:57:01.695 [main] ERROR api.test.DDTests - User retrieval failed! Status code: 404. Response body: {"code":1,"type":"error","message":"User not found"}
+11:57:01.698 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: "testuser3" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:57:02.837 [main] ERROR api.test.DDTests - User retrieval failed! Status code: 404. Response body: {"code":1,"type":"error","message":"User not found"}
+11:57:02.842 [main] INFO  api.test.DDTests - Starting testGetUserByName for user: 
+11:57:04.020 [main] ERROR api.test.DDTests - User retrieval failed! Status code: 405. Response body: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><apiResponse><type>unknown</type></apiResponse>
+11:57:04.115 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: "testuser1" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:57:05.251 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: "testuser2" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:57:06.337 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: "testuser3" & TEXT(RANDBETWEEN(1000, 9999), "0000")
+11:57:07.438 [main] INFO  api.test.DDTests - Starting testDeleteUserByName for user: 
