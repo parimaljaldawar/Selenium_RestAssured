@@ -11,6 +11,10 @@ import api.endpoints.UserEndpoints;
 import api.payload.User;
 import io.restassured.response.Response;
 import junit.framework.Assert;
+import io.restassured.RestAssured.*;
+import io.restassured.matcher.RestAssuredMatchers.*;
+import org.hamcrest.Matchers.*;
+
 
 public class UserTests 
 {
